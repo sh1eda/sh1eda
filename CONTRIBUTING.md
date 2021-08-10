@@ -4,7 +4,6 @@
 Give my Repos a Star<br>
 Like things that I post<br>
 Follow me on GitHub, Twitter, Youtube, Twitch, Insta, FB, Reddit, StackOverflow etc.<br>
-Vote for my Bot at top.gg and other bot lists<br>
 and tell your friends how great my stuff is :D
 
 ## Testing and Feedback
@@ -29,11 +28,9 @@ For Contributing to a project you don't need to code. For Example I need a Theme
 
 
 ## Contact
-Join my Discord! https://discord.gg/ptpyaEPpapy<br>
+Join my Discord! https://rubyhost.net<br>
 Discuss with others about the Bot, ask questions etc.<br>
 Get Involved into the Developing process!<br>
 Or try out the new Discussions Tab of Github.
 
-## Donating
-Yes Money always helps :D
-I've already written about it in the [README](https://github.com/hxr404/hxr404/#support)
+
