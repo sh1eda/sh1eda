@@ -21,7 +21,7 @@ This is my profile page, still a WIP (= Work in progress)
 
 ### Contact:
 
-<p align="left"> <a href="https://twitter.com/hxr404" target="blank"><img src="https://img.shields.io/twitter/follow/hxr404?logo=twitter&style=for-the-badge" alt="hxr404" /></a> </p>
+<p align="left"> <a href="https://rubyhost.net" target="blank"><img src="https://images-ext-1.discordapp.net/external/1MykRk6RCGqC5QyRMdqYsjc1cNvzAAsmPxkwdQUvnU8/%3Fsize%3D128/https/cdn.discordapp.com/icons/840916068931469342/449e4e87592b14cf249849543094056e.webp?width=115&height=115" alt="sh1eda" /></a> </p>
 
 Contact me on Discord if you need a quick reply<br>
 you can also write me on Twitter or open a Discussion/issue here on GitHub<br>
