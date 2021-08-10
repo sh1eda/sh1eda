@@ -39,7 +39,7 @@ you can also open a Discussion/issue here on GitHub<br>
 My work here is vouluntary and Community-driven, wich means if you want a feature, you'll get a feature. No hidden paywalls, no scam, free for everyone.
 I Open Source almost everything, so you can change and adjust things to match your pesonal preferences, improve it and share Ideas with the communtiy.
 
-There are  many ways how to Contribute to my projects (see [CONTRIBUTE.md](CONTRIBUTE.md))<br>
+There are  many ways how to Contribute to my projects (see [CONTRIBUTING.md](CONTRIBUTING.md))<br>
 
 But ofcourse I also put lots of time into this. No paywalls and propretary licenses mean that I can't sell my work, everyone can use everything for free.
 I somehow need to make a living, if I don't earn enough money through coding, I'll have to do more other jobs and thus have less time for mantaining everything and development won't make fast progress, etc.<br>
