@@ -24,19 +24,13 @@ This is my profile page, still a WIP (= Work in progress)
 <p align="left"> <a href="https://rubyhost.net" target="blank"><img src="https://images-ext-1.discordapp.net/external/1MykRk6RCGqC5QyRMdqYsjc1cNvzAAsmPxkwdQUvnU8/%3Fsize%3D128/https/cdn.discordapp.com/icons/840916068931469342/449e4e87592b14cf249849543094056e.webp?width=115&height=115" alt="sh1eda" /></a> </p>
 
 Contact me on Discord if you need a quick reply<br>
-you can also write me on Twitter or open a Discussion/issue here on GitHub<br>
+you can also open a Discussion/issue here on GitHub<br>
 
-If you have a question about my coding projects, join my Community Server and you'll be helped.
 
-<a href="https://discord.gg/ptpyaEPapy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ptpyaEPapy" height="30" width="40" /></a>
-<a href="https://twitter.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hxr404" height="30" width="40" /></a>
-<a href="https://github.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="hxr404" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucxvbruipmcsptbx_r1g2kfg" height="30" width="40" /></a>
-<a href="https://reddit.com/u/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="hxr404" height="30" width="40" /></a>
-<a href="https:/twitch.tv/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="hxr404" height="30" width="40" /></a>
-<a href="https://instagram.com/hxr404_official" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hxr404_official" height="30" width="40" /></a>
-<a href="https://dev.to/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hxr404" height="30" width="40" /></a>
-<a href="https://fb.com/hxr404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hxr404" height="30" width="40" /></a>
+<a href="https://rubyhost.net" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ptpyaEPapy" height="30" width="40" /></a>
+<a href="https://github.com/sh1eda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sh1eda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2tAVw5LmQNfwZ7e7EhTdyQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UC2tAVw5LmQNfwZ7e7EhTdyQ" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shiedafx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiedafx" height="30" width="40" /></a>
 
 
 </p>
@@ -53,19 +47,7 @@ I somehow need to make a living, if I don't earn enough money through coding, I'
 Also I need to pay for Infrastructure, for example hosting my Discord Bots. If I want it to run 24/7 and make sure it doesn't have major downtimes, I need to buy a VPS.
 The backend of some tools also needs to run somewhere.
 
-So please consider donating, it really helps a lot!
 
-Fixed Donations have the advantage that I can plan more easily on how to pay monthly fees and how much I need to work on other Jobs,
-but of course One-Time Donations are also appreciated a lot.
-
-I have a patreon site and am currently awaiting approval for my GitHub Sponsors site.
-The Tiers and Benefits are exactly the same on both platforms
-
-Here are the Links:
-
-<strike><a href="https://github.com/sponsors/hxr404">Support me on Github Sponsors</a></strike> currently not available<br>
-<br>
-<a href="https://patreon.org/hxr404"><img width="216" alt="patreon" src="https://user-images.githubusercontent.com/55095883/123521942-26e90a80-d6ba-11eb-822f-2140d890ee56.png"></a>
 
 <details>
 <summary>"Why applying for GitHub Sponsors, if Patreon just works perfectly fine and is more popular?"</summary>
