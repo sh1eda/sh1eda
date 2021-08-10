@@ -1,5 +1,5 @@
 <!--
-**hxr404/hxr404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sh1eda/sh1eda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm hxr404</h1>
+<h1 align="center">Hi 👋, I'm sh1eda</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hxr404&label=Profile%20views&color=0e75b6&style=flat" alt="hxr404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1eda&label=Profile%20views&color=0e75b6&style=flat" alt="sh1eda" /> </p>
 
 This is my profile page, still a WIP (= Work in progress)
 
