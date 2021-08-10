@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1eda&label=Profile%20views&color=0e75b6&style=flat" alt="sh1eda" /> </p>
 
 
+### About Me:
+
+
+I am a student which interested in developing and networking.<br>
+Right now I am working with my friends on a company named "RubyHost"<br>
+I worked with javascript long time and i know a little bit c#<br>
+
+
 
 ### Contact:
 
