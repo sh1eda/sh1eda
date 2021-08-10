@@ -48,33 +48,6 @@ Also I need to pay for Infrastructure, for example hosting my Discord Bots. If I
 The backend of some tools also needs to run somewhere.
 
 
-
-<details>
-<summary>"Why applying for GitHub Sponsors, if Patreon just works perfectly fine and is more popular?"</summary>
-On patreon theres a 8% Fee (+taxes and transaction fees), while on GitHub there are 0 fees.<bbr>
-And a really big advantage of GitHub Sponsors is: They give me x2 the amount of money you donated. Means if you buy the 10€ rank, GitHub/Microsoft will gift me additional 10€.<br>
-So in direct comparison: On Patreon I recieve 92% of the dontaions, wheras on GitHub I get 200%...
-</details>
-<br>
-In case you feel more like doing a one-time donation, the GitHub Sponsors site will have a one-time donation tier.<br>
-For now I recommend becoming my Patreon, you can cancel your pledge anytime.<br>
-
-Note that One-Time Donators won't recieve the same benefits as monthly subscibers. If you have donated, contact me and I'll give you the donator Role on my Discord.
-(Patrons will also recieve this role, even if they stopped being my Patron.)
-
-If you donate using liberapay, thats also great, but you won't recieve benefits here.<br>
-<a href="https://liberapay.com/hxr404/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-  
-I also accept Cryptocurrencies for one-time Donations, here is my Monero Adress:<br>
-<img src="hxr404_monero.png" alt="QR code of the monero adress"></img>
-`889sJKy5Ag2TGeJkU1hFtNHd9d4knsaVzjJcZDSgVeixZY2hnRPVFaNB876SBjkjpBS3gJe1U7x24YiChq6h7wdjGKLXmLj`<br>
-In case you want to donate with another crypto e.g. Bitcoin, there are plenty of good exchanges that offer monero, for example I personally recommend HavenoDEX.
-
-
-If nothing seems good for you, contact me and we'll find a way to handle your donation.
-
-
-
 ## some stats and widgets that apparently everyone has on their GitHub Profile
 
 ### Languages and Tools:
