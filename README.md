@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1eda&label=Profile%20views&color=0e75b6&style=flat" alt="sh1eda" /> </p>
 
-This is my profile page, still a WIP (= Work in progress)
 
 
 ### Contact:
