@@ -34,7 +34,7 @@ Contact me on Discord if you need a quick reply<br>
 you can also open a Discussion/issue here on GitHub<br>
 
 
-<a href="https://rubyhost.net" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ptpyaEPapy" height="30" width="40" /></a>
+<a href="discordapp.com/users/323455807754731520" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ptpyaEPapy" height="30" width="40" /></a>
 <a href="https://github.com/sh1eda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="sh1eda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC2tAVw5LmQNfwZ7e7EhTdyQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UC2tAVw5LmQNfwZ7e7EhTdyQ" height="30" width="40" /></a>
 <a href="https://www.instagram.com/shiedafx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shiedafx" height="30" width="40" /></a>
