@@ -28,7 +28,7 @@ I worked with javascript long time and i know a little bit c#<br>
 
 ### Contact:
 
-<p align="left"> <a href="https://rubyhost.net" target="blank"><img src="https://images-ext-1.discordapp.net/external/1MykRk6RCGqC5QyRMdqYsjc1cNvzAAsmPxkwdQUvnU8/%3Fsize%3D128/https/cdn.discordapp.com/icons/840916068931469342/449e4e87592b14cf249849543094056e.webp?width=115&height=115" alt="sh1eda" /></a> </p>
+<-- <p align="left"> <a href="https://rubyhost.net" target="blank"><img src="https://images-ext-1.discordapp.net/external/1MykRk6RCGqC5QyRMdqYsjc1cNvzAAsmPxkwdQUvnU8/%3Fsize%3D128/https/cdn.discordapp.com/icons/840916068931469342/449e4e87592b14cf249849543094056e.webp?width=115&height=115" alt="sh1eda" /></a> </p> -->
 
 Contact me on Discord if you need a quick reply<br>
 you can also open a Discussion/issue here on GitHub<br>
